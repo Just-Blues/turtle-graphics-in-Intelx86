@@ -9,7 +9,7 @@ main.cpp file handles loading of the files and passes them to int turtle(unsigne
 - different colours.bin - similar to input.bin, but draws differently coloured square
 - extreme.bin and extreme2.bin - present extreme cases of the program, used for testing
 --------------------------------            
-Below are instructions that will allow for correct .bin file creation.
+Below are instructions that will allow correct .bin file creation.
 
 In order for the program to work properly, input .bin file has to follow the following format:
 
