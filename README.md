@@ -6,8 +6,8 @@ main.cpp file handles loading of the files and passes them to int turtle(unsigne
 - input.bin - contains parameters neccessary to draw a small square 
 - output.bmp - contains output of program operation with input.bin parameters 
 - original.bmp - is just an empty 50x600 .bmp file
-- different colours.bin - similar to input.bin, but draws differently coloured square
-- extreme.bin and extreme2.bin - present extreme cases of the program, used for testing
+- makefile 
+- different colours.bin, extreme.bin and extreme2.bin - all used for testing
 --------------------------------            
 Below are instructions that will allow correct .bin file creation.
 
